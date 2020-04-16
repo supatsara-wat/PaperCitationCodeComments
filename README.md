@@ -1,4 +1,4 @@
-# PaperCitationCodeComments
+# Research Artifact: From Academia to Software Development: Publication Citations in Source Code Comments
 
 https://github.com/supatsara-wat/PaperCitationCodeComments
 

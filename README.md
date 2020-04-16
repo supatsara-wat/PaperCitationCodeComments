@@ -1,4 +1,4 @@
-# PaperCitationsinCodeComments
+# PaperCitationCodeComments
 
 https://github.com/supatsara-wat/PaperCitationCodeComments
 

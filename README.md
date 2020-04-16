@@ -1,6 +1,6 @@
 # PaperCitationsinCodeComments
 
-https://github.com/supatsara-wat/PaperCitationsinCodeComments/
+https://github.com/supatsara-wat/PaperCitationCodeComments
 
 This is a research artifact for the paper: **From Academia to Software Development: Publication Citations in Source Code Comments**. This artifact is a repository consisting of qualitative coding results reported in our paper. The purpose of this artifact is to enable researchers to replicate our mixed-methods quantitative results of the paper.
 

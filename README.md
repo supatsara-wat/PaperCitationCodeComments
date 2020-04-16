@@ -2,7 +2,7 @@
 
 https://github.com/supatsara-wat/PaperCitationCodeComments
 
-This is a research artifact for the paper: **From Academia to Software Development: Publication Citations in Source Code Comments**. This artifact is a repository consisting of qualitative coding results reported in our paper. The purpose of this artifact is to enable researchers to replicate our mixed-methods quantitative results of the paper.
+This is a research artifact for the paper: **From Academia to Software Development: Publication Citations in Source Code Comments**. This artifact is a repository consisting of the dataset and qualitative coding results reported in our paper. The purposes of this artifact are to enable researchers to replicate our mixed-methods quantitative results of the paper, and to reuse our dataset for further software engineering research.
 
 ## Contents
 * `dataset` - a directory of the dataset

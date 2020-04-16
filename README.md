@@ -6,7 +6,7 @@ This is a research artifact for the paper: **From Academia to Software Developme
 
 ## Contents
 * `README.md` - this file
-  * [Qualitative coding results](https://docs.google.com/spreadsheets/d/15swUpI6R3rr45VBnzH0Xt3VbN3meLQnH2VOjzo8FktY/edit?usp=sharing) 
+  * [Qualitative coding results](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtfzcI0u5p6aGJeHJrezJXz4r6V3jFGG6cypOHprYsAqzv23iXQ_b0IbEmbONvkVfj6yrWb0jDHcpE/pubhtml?gid=0&single=true) 
 
 ## Authors
 - Akira Inokuchi

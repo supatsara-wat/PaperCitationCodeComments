@@ -6,7 +6,7 @@ This is a research artifact for the paper: **From Academia to Software Developme
 
 ## Contents
 - `README.md` - this file
-- `coding_results.csv` - Section 6.2: qualitative coding results (.csv format)
+- `coding_results.xlsx` - Section 6.2: qualitative coding results
 
 ## Authors
 - Akira Inokuchi

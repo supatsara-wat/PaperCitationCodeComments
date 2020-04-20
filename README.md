@@ -6,7 +6,7 @@ This is a research artifact for the paper: **From Academia to Software Developme
 
 ## Contents
 * `README.md` - this file.
-  * [Statistically representative sample of 372 identified comments](https://docs.google.com/spreadsheets/d/e/2PACX-1vQbTS2W0Im6wArUgS8g0pgBX5iV3uqGPcQ-W5UJwKNYpJyvhmUuUx7FSO8VbcVCJZpLZ2LmM3cYQ_31/pubhtml?gid=0&single=true)
+  * [Statistically representative sample of 372 comments](https://docs.google.com/spreadsheets/d/e/2PACX-1vQbTS2W0Im6wArUgS8g0pgBX5iV3uqGPcQ-W5UJwKNYpJyvhmUuUx7FSO8VbcVCJZpLZ2LmM3cYQ_31/pubhtml?gid=0&single=true)
   * [Qualitative coding results](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtfzcI0u5p6aGJeHJrezJXz4r6V3jFGG6cypOHprYsAqzv23iXQ_b0IbEmbONvkVfj6yrWb0jDHcpE/pubhtml?gid=0&single=true)
 * `dataset.csv` - 272 comments used to train our model (.csv format).
   * The dataset follows a BIO type tagging, which B stands for beginning, I stands for inside, and O stands for outside (of an entity), and consists of the following entities:
@@ -32,5 +32,5 @@ This is a research artifact for the paper: **From Academia to Software Developme
 - Fumiaki Konishi
 - [Hideaki Hata](https://hideakihata.github.io/)
 - [Christoph Treude](http://ctreude.ca/)
-- Akito Monden
+- [Akito Monden](http://digi-ana.sakura.ne.jp/)
 - Kenichi Matsumoto

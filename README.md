@@ -6,8 +6,9 @@ This is a research artifact for the paper: **From Academia to Software Developme
 
 ## Contents
 * `README.md` - this file.
-  * [Qualitative coding results](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtfzcI0u5p6aGJeHJrezJXz4r6V3jFGG6cypOHprYsAqzv23iXQ_b0IbEmbONvkVfj6yrWb0jDHcpE/pubhtml?gid=0&single=true) 
-* `dataset.csv` - 272 source code comments used to train our model (.csv format).
+  * [Statistically representative sample of 372 identified comments]
+  * [Qualitative coding results](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtfzcI0u5p6aGJeHJrezJXz4r6V3jFGG6cypOHprYsAqzv23iXQ_b0IbEmbONvkVfj6yrWb0jDHcpE/pubhtml?gid=0&single=true)
+* `dataset.csv` - 272 comments used to train our model (.csv format).
   * The dataset follows a BIO type tagging, which B stands for beginning, I stands for inside, and O stands for outside (of an entity), and consists of the following entities:
     * AUTHOR = author's name
     * BOOKTITLE_OR_JOURNAL = book title

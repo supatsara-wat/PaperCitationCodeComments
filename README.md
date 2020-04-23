@@ -34,4 +34,4 @@ This is a research artifact for the paper: **From Academia to Software Developme
 - [Hideaki Hata](https://hideakihata.github.io/)
 - [Christoph Treude](http://ctreude.ca/)
 - [Akito Monden](http://digi-ana.sakura.ne.jp/)
-- Kenichi Matsumoto
+- [Kenichi Matsumoto](https://matsumotokenichi.github.io/)
